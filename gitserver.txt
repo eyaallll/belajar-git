@@ -1,1 +1,3 @@
 server jurusan rpl dengan github
+
+menggunakan git hub dalam subjek jurusan
